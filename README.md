@@ -1,4 +1,4 @@
-### My name is Mato Martinović and I am a software developer.
+### Mato Martinović
 ___
 #### About me
 I am from Montenegro and I am 24 years old.
