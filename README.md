@@ -1,14 +1,13 @@
 ### Mato Martinović
 ___
 #### About me
-I am from Montenegro and I am 24 years old.
+From Montenegro 🇲🇪
 
-I have earned my Bachelor's degree in IT as the best student of my class.
+Bachelor in IT (Best student of my class)
 
-I am currently a second year Master's student in Artificial Intelligence.
+2nd year Master's student in AI
 ___
-#### Fields
-My main fields of interest and expertise are:
+#### Interests and experience
 1. Full stack web & app development
 2. Data science and Artificial intelligence
 3. UX & UI design
