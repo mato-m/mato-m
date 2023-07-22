@@ -20,7 +20,9 @@ ___
 [Moviez - a simple movie app](https://github.com/mato-m/movie-app)
 
 ##### AI projects
-[KMeans - Wine data clustering](https://github.com/mato-m/kmeans-wine)
+[KMeans & PCA - Wine data clustering](https://github.com/mato-m/kmeans-wine)
+
+[Linear & Random Forest regression - Car prices](https://github.com/mato-m/regression-cars)
 
 ___
 #### Tools & Languages
