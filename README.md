@@ -18,6 +18,10 @@ ___
 #### My projects
 ##### Full stack projects
 [Moviez - a simple movie app](https://github.com/mato-m/movie-app)
+
+##### AI projects
+[KMeans - Wine data clustering](https://github.com/mato-m/kmeans-wine)
+
 ___
 #### Tools & Languages
 Languages: Python, Java, Javascript, PHP, C#
