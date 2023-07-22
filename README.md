@@ -17,7 +17,7 @@ Received a scholarship for the best students of Montenegro.
 2. Data science and Artificial intelligence
 3. UX & UI design
 4. Digital Marketing
-___
+
 ## My projects
 ### Full stack projects
 [Moviez - a simple movie app](https://github.com/mato-m/movie-app)
@@ -37,8 +37,6 @@ ___
 
 #### Clustering (unsupervised learning)
 [KMeans & PCA - Wine data clustering](https://github.com/mato-m/kmeans-wine)
-
-___
 ## Tools & Languages
 ### Programming Languages:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=007396)
