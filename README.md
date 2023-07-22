@@ -20,12 +20,14 @@ ___
 [Moviez - a simple movie app](https://github.com/mato-m/movie-app)
 
 ##### AI projects
-[KMeans & PCA - Wine data clustering](https://github.com/mato-m/kmeans-wine)
 
-[Linear & Random Forest regression - Car prices](https://github.com/mato-m/regression-cars)
+[Vehicle counting with YOLO and ByteTracker](https://github.com/mato-m/yolo-vehicle-counting)
 
 [ResNet - Grape disease classification](https://github.com/mato-m/resnet-grape)
 
+[Linear & Random Forest regression - Car prices](https://github.com/mato-m/regression-cars)
+
+[KMeans & PCA - Wine data clustering](https://github.com/mato-m/kmeans-wine)
 ___
 #### Tools & Languages
 Programming Languages:
