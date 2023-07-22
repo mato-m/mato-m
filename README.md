@@ -26,24 +26,61 @@ ___
 
 ___
 #### Tools & Languages
-Languages: Python, Java, Javascript, PHP, C#
+Programming Languages:
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=007396)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=007396)
+![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk&logoColor=007396)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=007396)
+![C#](https://img.shields.io/badge/-C%23-000?&logo=c-sharp&logoColor=007396)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007396)
 
-Frontend tools: React, Angular, Next.js
+Frontend tools:
+![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=007396)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=007396)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js&logoColor=007396)
 
-Backend tools: Node.js, Express.js, Django, Flask
+Backend tools:
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js&logoColor=007396)
+![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express.js&logoColor=007396)
+![Django](https://img.shields.io/badge/-Django-000?&logo=Django&logoColor=007396)
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask&logoColor=007396)
 
-Mobile apps: Android Studio, React Native
+Mobile apps:
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-000?&logo=Android%20Studio&logoColor=007396)
+![React Native](https://img.shields.io/badge/-React_Native-000?&logo=react&logoColor=007396)
 
-Databases: SQL, MongoDB, GraphQL
+Databases:
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=Microsoft%20SQL%20Server&logoColor=007396)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB&logoColor=007396)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL&logoColor=007396)
 
-Data science: Numpy, Pandas, MatPlotLib, Seaborn
+Data science:
+![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=Numpy&logoColor=007396)
+![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas&logoColor=007396)
+![MatPlotLib](https://img.shields.io/badge/-MatPlotLib-000?&logo=Matplotlib&logoColor=007396)
+![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=Seaborn&logoColor=007396)
 
-Machine learning: Scikit-learn, PyTorch, TensorFlow, Keras
+Machine learning:
+![Scikit-learn](https://img.shields.io/badge/-Scikit%20learn-000?&logo=scikit-learn&logoColor=007396)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch&logoColor=007396)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow&logoColor=007396)
+![Keras](https://img.shields.io/badge/-Keras-000?&logo=Keras&logoColor=007396)
 
-Computer vision: OpenCV, YOLO
+Computer vision:
+![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=OpenCV&logoColor=007396)
+![YOLO](https://img.shields.io/badge/-YOLO-000?&logo=YOLO&logoColor=007396)
 
-UX & UI design: Figma, AdobeXD, Adobe Illustrator, Canva
+UX & UI design:
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma&logoColor=007396)
+![AdobeXD](https://img.shields.io/badge/-AdobeXD-000?&logo=Adobe%20XD&logoColor=007396)
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-000?&logo=Adobe%20Illustrator&logoColor=007396)
+![Canva](https://img.shields.io/badge/-Canva-000?&logo=Canva&logoColor=007396)
 
-Version control: Git, Github
+Version control:
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=007396)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=007396)
 
-Other tools: Wordpress, Google Analytics, Linux terminal, Docker
+Other tools:
+![Wordpress](https://img.shields.io/badge/-Wordpress-000?&logo=WordPress&logoColor=007396)
+![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-000?&logo=Google%20Analytics&logoColor=007396)
+![Linux terminal](https://img.shields.io/badge/-Linux%20terminal-000?&logo=Linux&logoColor=007396)
