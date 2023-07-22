@@ -21,7 +21,7 @@ ___
 
 ##### AI projects
 
-[Vehicle counting with YOLO and ByteTracker](https://github.com/mato-m/yolo-vehicle-counting)
+[YOLO & ByteTracker - Vehicle counting](https://github.com/mato-m/yolo-vehicle-counting)
 
 [ResNet - Grape disease classification](https://github.com/mato-m/resnet-grape)
 
