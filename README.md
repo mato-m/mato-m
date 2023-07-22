@@ -24,6 +24,8 @@ ___
 
 [Linear & Random Forest regression - Car prices](https://github.com/mato-m/regression-cars)
 
+[ResNet - Grape disease classification](https://github.com/mato-m/resnet-grape)
+
 ___
 #### Tools & Languages
 Programming Languages:
