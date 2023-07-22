@@ -28,6 +28,8 @@ ___
 [Linear & Random Forest regression - Car prices](https://github.com/mato-m/regression-cars)
 
 [KMeans & PCA - Wine data clustering](https://github.com/mato-m/kmeans-wine)
+
+[K-nearest neigbors - Diabetes prediction](https://github.com/mato-m/knn-diabetes)
 ___
 #### Tools & Languages
 Programming Languages:
