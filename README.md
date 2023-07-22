@@ -5,6 +5,9 @@ Master's student in AI at University of Donja Gorica
 
 Bachelor in IT (Best student of 2019 class) at University of Donja Gorica
 
+Attended various courses
+
+##### Scholarships & awards
 Received a scholarship for the best students of Cetinje.
 
 Received a scholarship for the best students of Montenegro.
