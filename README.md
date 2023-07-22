@@ -21,15 +21,20 @@ ___
 
 ##### AI projects
 
+###### Deep learning
 [YOLO & ByteTracker - Vehicle counting](https://github.com/mato-m/yolo-vehicle-counting)
 
 [ResNet - Grape disease classification](https://github.com/mato-m/resnet-grape)
 
+###### Classification
+[K-nearest neigbors - Diabetes prediction](https://github.com/mato-m/knn-diabetes)
+
+###### Regression
 [Linear & Random Forest regression - Car prices](https://github.com/mato-m/regression-cars)
 
+###### Clustering (unsupervised learning)
 [KMeans & PCA - Wine data clustering](https://github.com/mato-m/kmeans-wine)
 
-[K-nearest neigbors - Diabetes prediction](https://github.com/mato-m/knn-diabetes)
 ___
 #### Tools & Languages
 Programming Languages:
