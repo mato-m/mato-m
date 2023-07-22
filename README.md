@@ -41,7 +41,7 @@ Frontend tools:
 
 Backend tools:
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js&logoColor=007396)
-![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express.js&logoColor=007396)
+![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=express&logoColor=007396)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django&logoColor=007396)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask&logoColor=007396)
 
@@ -57,7 +57,7 @@ Databases:
 Data science:
 ![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=Numpy&logoColor=007396)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas&logoColor=007396)
-![MatPlotLib](https://img.shields.io/badge/-MatPlotLib-000?&logo=Matplotlib&logoColor=007396)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=Matplotlib&logoColor=007396)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=Seaborn&logoColor=007396)
 
 Machine learning:
