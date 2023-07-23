@@ -32,7 +32,7 @@ Received a scholarship for the best students of Montenegro.
 [ResNet - Grape disease classification](https://github.com/mato-m/resnet-grape)
 
 #### Classification
-[K-nearest neigbors - Diabetes prediction](https://github.com/mato-m/knn-diabetes)
+[K-nearest neighbors - Diabetes prediction](https://github.com/mato-m/knn-diabetes)
 
 [Random forest - Wine quality prediction](https://github.com/mato-m/rf-wine)
 
