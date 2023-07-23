@@ -9,7 +9,8 @@ Attended various courses on web development, digital marketing, AI & game develo
 
 ### Scholarships & awards
 
-Best student of 2019 class during Bachelor studies
+Award for the Best student of 2019 class during Bachelor studies.
+
 Received a scholarship for the best students of Cetinje.
 
 Received a scholarship for the best students of Montenegro.
