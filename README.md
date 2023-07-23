@@ -20,7 +20,7 @@ Received a scholarship for the best students of Montenegro.
 
 ## My projects
 ### Full stack projects
-[Moviez - a simple movie app](https://github.com/mato-m/movie-app)
+[Moviez - A simple movie app](https://github.com/mato-m/movie-app)
 
 ### AI projects
 
@@ -32,7 +32,7 @@ Received a scholarship for the best students of Montenegro.
 #### Classification
 [K-nearest neigbors - Diabetes prediction](https://github.com/mato-m/knn-diabetes)
 
-[Random forest - wine quality prediction](https://github.com/mato-m/rf-wine)
+[Random forest - Wine quality prediction](https://github.com/mato-m/rf-wine)
 
 [Support vector machine - Bank note authentication](https://github.com/mato-m/svm-banknote)
 
