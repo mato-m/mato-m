@@ -32,7 +32,10 @@ Received a scholarship for the best students of Montenegro.
 #### Classification
 [K-nearest neigbors - Diabetes prediction](https://github.com/mato-m/knn-diabetes)
 
+[Random forest - wine quality prediction](https://github.com/mato-m/rf-wine)
+
 [Support vector machine - Bank note authentication](https://github.com/mato-m/svm-banknote)
+
 
 #### Regression
 [Linear & Random Forest regression - Car prices](https://github.com/mato-m/regression-cars)
