@@ -1,13 +1,15 @@
 # Mato Martinović
 ## Education
 
-Master's student in AI at University of Donja Gorica.
+Master's student in AI - University of Donja Gorica.
 
-Bachelor in IT (Best student of 2019 class) at University of Donja Gorica.
+Bachelor in IT - University of Donja Gorica.
 
 Attended various courses on web development, digital marketing, AI & game development.
 
 ### Scholarships & awards
+
+Best student of 2019 class during Bachelor studies
 Received a scholarship for the best students of Cetinje.
 
 Received a scholarship for the best students of Montenegro.
