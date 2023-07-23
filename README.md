@@ -1,25 +1,4 @@
 # Mato Martinović
-## Education
-
-Master's student in AI - University of Donja Gorica.
-
-Bachelor in IT - University of Donja Gorica.
-
-Attended various courses on web development, digital marketing, AI & game development.
-
-### Scholarships & awards
-
-Award for the Best student of 2019 class during Bachelor studies.
-
-Received a scholarship for the best students of Cetinje.
-
-Received a scholarship for the best students of Montenegro.
-
-## Interests and experience
-1. Full stack web & app development
-2. Data science and Artificial intelligence
-3. UX & UI design
-4. Digital Marketing
 
 ## My projects
 ### Full stack projects
@@ -104,3 +83,26 @@ Received a scholarship for the best students of Montenegro.
 ![Wordpress](https://img.shields.io/badge/-Wordpress-000?&logo=WordPress&logoColor=007396)
 ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-000?&logo=Google%20Analytics&logoColor=007396)
 ![Linux terminal](https://img.shields.io/badge/-Linux%20terminal-000?&logo=Linux&logoColor=007396)
+
+
+## Education
+
+Master's student in AI - University of Donja Gorica.
+
+Bachelor in IT - University of Donja Gorica.
+
+Attended various courses on web development, digital marketing, AI & game development.
+
+### Scholarships & awards
+
+Award for the Best student of 2019 class during Bachelor studies.
+
+Received a scholarship for the best students of Cetinje.
+
+Received a scholarship for the best students of Montenegro.
+
+## Interests and experience
+1. Full stack web & app development
+2. Data science and Artificial intelligence
+3. UX & UI design
+4. Digital Marketing
