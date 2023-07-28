@@ -48,13 +48,13 @@
 
 🎓 Master of AI, University of Donja Gorica (2022 - Present)
 
-🎓 Bachelor of IT, University of Donja Gorica (2019 - 2022) ✅ <br/>
+🎓 Bachelor of IT, University of Donja Gorica (2019 - 2022)<br/>
 📄 Thesis: Machine learning and cryptocurrency price prediction
 
 
 ### Scholarships & awards
 
-🏆 Best student of the class of 2019.
+🏆 Best student of the class of 2019
 
 🏆 Scholarship for the best students from Cetinje
 
