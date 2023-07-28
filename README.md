@@ -1,5 +1,3 @@
-# Mato Martinović
-
 ## My projects
 ### Web projects 🌐
 [Moviez - A simple movie app](https://github.com/mato-m/movie-app)
