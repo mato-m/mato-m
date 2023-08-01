@@ -1,26 +1,26 @@
 ## Web projects 🌐
-[Moviez - A simple movie app](https://github.com/mato-m/movie-app)
+[🌐 Moviez - A simple movie app](https://github.com/mato-m/movie-app)
 
 ## AI projects 🧠
 
 ### Deep learning
-[YOLO & ByteTracker - Vehicle counting](https://github.com/mato-m/yolo-vehicle-counting)
+[🧠 YOLO & ByteTracker - Vehicle counting](https://github.com/mato-m/yolo-vehicle-counting)
 
-[ResNet - Grape disease classification](https://github.com/mato-m/resnet-grape)
+[🧠 ResNet - Grape disease classification](https://github.com/mato-m/resnet-grape)
 
 ### Classification
-[K-nearest neighbors - Diabetes prediction](https://github.com/mato-m/knn-diabetes)
+[🧠 K-nearest neighbors - Diabetes prediction](https://github.com/mato-m/knn-diabetes)
 
-[Random forest - Wine quality prediction](https://github.com/mato-m/rf-wine)
+[🧠 Random forest - Wine quality prediction](https://github.com/mato-m/rf-wine)
 
-[Support vector machine - Bank note authentication](https://github.com/mato-m/svm-banknote)
+[🧠 Support vector machine - Bank note authentication](https://github.com/mato-m/svm-banknote)
 
 ### Regression
-[Linear & Random Forest regression - Car prices](https://github.com/mato-m/regression-cars)
+[🧠 Linear & Random Forest regression - Car prices](https://github.com/mato-m/regression-cars)
 
 ### Clustering
-[KMeans & PCA - Wine data clustering](https://github.com/mato-m/kmeans-wine)
-## Skills
+[🧠 KMeans & PCA - Wine data clustering](https://github.com/mato-m/kmeans-wine)
+## Skills ⚙️
 ⚙️ Programming Languages: ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=007396) ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007396) ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=007396) ![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk&logoColor=007396) ![C#](https://img.shields.io/badge/-C%23-000?&logo=c-sharp&logoColor=007396) ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=007396) 
 
 ⚙️ Frontend tools: ![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=007396) ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=007396) ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js&logoColor=007396)
@@ -44,7 +44,7 @@
 ⚙️ Other tools: ![Wordpress](https://img.shields.io/badge/-Wordpress-000?&logo=WordPress&logoColor=007396) ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-000?&logo=Google%20Analytics&logoColor=007396) ![Linux terminal](https://img.shields.io/badge/-Linux%20terminal-000?&logo=Linux&logoColor=007396)
 
 
-## Education
+## Education 🎓
 
 🎓 Master of AI, University of Donja Gorica (2022 - Present)
 
@@ -52,7 +52,7 @@
 📄 Thesis: Machine learning and cryptocurrency price prediction
 
 
-### Scholarships & awards
+### Scholarships & awards 🏆
 
 🏆 Best student of the class of 2019
 
