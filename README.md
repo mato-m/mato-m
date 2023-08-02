@@ -1,5 +1,6 @@
 ## Web projects 🌐
 [🌐 Moviez - A simple movie app](https://github.com/mato-m/movie-app)
+[🌐 Newz - a simple news portal](https://github.com/mato-m/newz-app)
 
 ## AI projects 🧠
 
