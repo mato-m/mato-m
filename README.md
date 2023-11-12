@@ -8,7 +8,7 @@ Welcome to my Github page. Here you can learn more about me and my projects.
 
 #### Future plans
 
-I plan to make live demos for my projects, and create more interesting projects. I am currently exploring the field of computer vision.
+I plan to make live demos for my current projects. I also plan to create more interesting projects. I am currently exploring the field of computer vision.
 
 #### Expertise 👨‍💻
 
