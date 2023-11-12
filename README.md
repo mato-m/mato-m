@@ -22,7 +22,6 @@ design: [ "Figma", "XD", "Illustrator", "Canva"]
 ai: [ "Numpy", "Pandas", "Scikit-learn", "Tensorflow", "Keras", "PyTorch", "YOLO", "OpenCV"]
 otherTools: [ "Wordpress", "npm", "Version control", "Linux CLI", "Docker"]
 ```
-
 #### Projects
     Full-stack 🌎
     ├── Web apps
