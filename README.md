@@ -75,7 +75,6 @@ I plan to make live demos for my current projects. I also plan to create more in
             ├── Enabled sensor data management, visualization and processing using ApexCharts
             ├── Implemented secure processes for user authentication and authorization
 
-
         
         Walmart
         ├── 📅 Duration: June 2022 - September 2023
@@ -85,7 +84,6 @@ I plan to make live demos for my current projects. I also plan to create more in
             ├── Responsible for inventory management in one of South Carolina's largest Supercenters
             ├── Participated in many successful direct sales
             ├── Provided customers with excellent customer service
-
 
 
         Self-employed
