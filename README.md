@@ -83,7 +83,7 @@ I plan to make live demos for my current projects. I also plan to create more in
         ├── 📝 Summary:
             ├── Responsible for inventory management in one of South Carolina's largest Supercenters
             ├── Participated in many successful direct sales
-            ├── Provided customers with excellent customer service
+            ├── Provided over a 1000 customers with excellent customer service
 
 
         Self-employed
