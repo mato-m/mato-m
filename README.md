@@ -9,9 +9,9 @@ I plan to make live demos for my current projects. I also plan to create more in
 | **Languages** | **Frontend**    | **Backend**     | **Databases** | **UI Design** | **AI**         | **Other Tools**           |
 |:-------------:|:---------------:|:---------------:|:-------------:|:-------------:|:--------------:|:---------------------------:|
 | JavaScript    | React           | Node.js         | SQL           | Figma         | Numpy          | Version control systems     |
-| Typescript    | React Native    | Express.js      | MongoDB       | Illustrator   | Pandas         | Linux CLI                   |
+| TypeScript    | React Native    | Express.js      | MongoDB       | Illustrator   | Pandas         | Linux CLI                   |
 | Python        | Angular         | Flask           |               | Canva         | Scikit-learn   | Docker                      |
-| PHP           | Next.js         | JWT             |               |               | Tensorflow     |                             |
+| PHP           | Next.js         | JWT             |               |               | Tensorflow     | npm                         |
 | Java          | Wordpress       |                 |               |               | Keras          |                             |
 | C#            |                 |                 |               |               | PyTorch        |                             |
 #### Projects
