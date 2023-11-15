@@ -1,11 +1,11 @@
-#### Introduction 👋
+### Introduction 👋
 
 Hello, my name is Mato.<br/>
 I am a web & mobile app developer, as well as an AI enthusiast.<br/>
 Welcome to my Github page. Here you can learn more about me and my projects.
 #### Future plans
 I plan to make live demos for my current projects. I also plan to create more interesting projects. I am currently exploring the field of computer vision.
-#### Expertise 👨‍💻
+### Expertise 👨‍💻
 | **Languages** | **Frontend**    | **Backend**     | **Databases** | **UI Design** | **AI**         | **Other Tools**           |
 |:-------------:|:---------------:|:---------------:|:-------------:|:-------------:|:--------------:|:---------------------------:|
 | JavaScript    | React           | Node.js         | SQL           | Figma         | Numpy          | Version control systems     |
@@ -14,34 +14,34 @@ I plan to make live demos for my current projects. I also plan to create more in
 | PHP           | Next.js         | JWT             |               |               | Tensorflow     | npm                         |
 | Java          | Wordpress       |                 |               |               | Keras          |                             |
 | C#            |                 |                 |               |               | PyTorch        |                             |
-#### Projects
-        Full-stack 🌎
-        │
-        ├── Web apps
-        │   ├── Movie data app
-        │   ├── News portal
-        │
-        ├── Mobile apps
-            ├── Expense tracker
-           
-        AI 🧠
-        │
-        ├── Deep learning
-        │   ├── Vehicle counting
-        │   ├── Grapevine disease classification
-        │
-        ├── Classification
-        │   ├── Diabetes prediction
-        │   ├── Wine quality prediction
-        │   ├── Bank note authentication
-        │
-        ├── Regression
-        │   ├── Car price prediction
-        │   ├── Grapevine disease classification
-        │
-        ├── Clustering
-            ├── Wine clustering
-#### Education 🎓
+### Projects
+#### Full-stack 🌎
+| **Project name** | **Tools used**    | **Description**     | **Demo** | **Repo** |
+|:-------------:|:---------------:|:---------------:|:-------------:|:-------------:|
+| Movie info site    | React, Express.js, Postgres           | /         | Coming soon           | /         |
+| News portal    | React, Express.js, Postgres    | /      | Coming soon       | /   |
+| Expense tracker        | React Native         | /           |        [Play Store](https://play.google.com/store/apps/details?id=com.mato.xo.troskovi)       | /         |
+#### AI 🧠
+##### Deep learning
+| **Project name** | **Tools used**    | **Description**     | **Demo** | **Repo** |
+|:-------------:|:---------------:|:---------------:|:-------------:|:-------------:|
+| Vehicle counting    | /           | /         | /           | /         |
+| Grapevine disease classification    | /    | /      | /       | /   |
+##### Classification
+| **Project name** | **Tools used**    | **Description**     | **Demo** | **Repo** |
+|:-------------:|:---------------:|:---------------:|:-------------:|:-------------:|
+| Diabetes prediction    | /           | /         | /           | /         |
+| Wine quality prediction    | /    | /      | /       | /   |
+| Bank note authentication    | /    | /      | /       | /   |
+##### Regression
+| **Project name** | **Tools used**    | **Description**     | **Demo** | **Repo** |
+|:-------------:|:---------------:|:---------------:|:-------------:|:-------------:|
+| Car price prediction    | Python, Pandas, Scikit-learn           | /         | /           | [regression-cars](https://github.com/mato-m/regression-cars)         |
+##### Clustering
+| **Project name** | **Tools used**    | **Description**     | **Demo** | **Repo** |
+|:-------------:|:---------------:|:---------------:|:-------------:|:-------------:|
+| Wine clustering    | /    | /      | /       | /   |
+### Education 🎓
         Master of AI
         ├── 📄 Thesis: Computer vision in viticulture
         ├── 📅 Duration: 2022 - 2024
@@ -55,7 +55,7 @@ I plan to make live demos for my current projects. I also plan to create more in
             ├── Best student of the class of 2019 (9.64 GPA)
             ├── Scholarship for the best students from Cetinje
             ├── Scholarship for the best students from Montenegro
-#### Career 💼
+### Career 💼
         DigitalSmart
         ├── 📅 Duration: December 2022 - October 2023
         ├── 📍 Location: Podgorica, Montenegro
