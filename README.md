@@ -18,8 +18,8 @@ I'm constantly working on gaining and improving my skills, as well as creating n
 | Movie info site    | React<br/> Express.js<br/> Postgres           | /         | Coming soon           | [movie-frontend](https://github.com/mato-m/movie-frontend)<br/>[movie-backend](https://github.com/mato-m/movie-backend)         |
 | News portal    | React<br/> Express.js<br/> Postgres    | /      | Coming soon       | [news-frontend](https://github.com/mato-m/news-frontend)<br/>[news-backend](https://github.com/mato-m/news-backend)         |
 | Expense tracker        | React Native         | /           |        [Play Store](https://play.google.com/store/apps/details?id=com.mato.xo.troskovi)       | [troskovi-app](https://github.com/mato-m/troskovi-app)         |
-| Crypto tracker       | React         | /           |        [Demo](https://main--inquisitive-dusk-12f301.netlify.app/)       | [crypto-frontend](https://github.com/mato-m/crypto-frontend)         |
-| Rent a car website       | React         | A simple website with a modern UI design made in React to showcase cars for a rent-a-car company. When user clicks on a car he can get detailed information about the car and prices for a different number of days.          |        [Demo](https://stupendous-creponne-63746d.netlify.app/)       | [rent-car-react](https://github.com/mato-m/rent-car-react)         |
+| Rent a car website       | React         | A simple website with a modern UI design made in React to showcase cars for a rent-a-car company. When user clicks on a car he can get detailed information about the car and prices for a different number of days.          |        [Demo](https://rentmne.netlify.app/)       | [rent-car-react](https://github.com/mato-m/rent-car-react)         |
+| Crypto tracker       | React         | /           |        [Demo](https://crypto-track-react-app.netlify.app/)       | [crypto-frontend](https://github.com/mato-m/crypto-frontend)         |
 #### AI 🧠
 ##### Deep learning
 | **Project name** | **Model**    | **Description**     | **Demo** | **Repo** |
