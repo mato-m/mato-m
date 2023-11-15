@@ -30,6 +30,7 @@ I'm constantly working on gaining and improving my skills, as well as creating n
 | **Project name** | **Model**    | **Description**     | **Demo** | **Repo** |
 |:-------------:|:---------------:|:---------------:|:-------------:|:-------------:|
 | Diabetes prediction    | K-nearest neighbors           | /         | /           | [knn-diabetes](https://github.com/mato-m/knn-diabetes)         |
+| Gender prediction    | Stochastic gradient descent           | /         | /           | [gender-classification](https://github.com/mato-m/gender-classification)         |
 | Wine quality prediction    | K-means<br/>Principal component analysis    | /      | /       | [kmeans-wine](https://github.com/mato-m/kmeans-wine)   |
 | Bank note authentication    | Support Vector Machine<br/>Principal component analysis    | /      | /       | [svm-banknote](https://github.com/mato-m/svm-banknote)   |
 ##### Regression
