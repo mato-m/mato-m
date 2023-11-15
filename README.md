@@ -1,7 +1,7 @@
 ### Introduction 👋
 Hello, my name is Mato.<br/>
 I'm a web & mobile app developer, as well as an AI enthusiast.<br/>
-I'm constantly working on gaining and improving my skills, as well as creating and improving my existing projects.
+I'm constantly working on gaining and improving my skills, as well as creating new and improving my existing projects.
 ### Expertise 👨‍💻
 | **Languages** | **Frontend**    | **Backend**     | **Machine learning**         | **Other Tools**           |
 |:-------------:|:---------------:|:---------------:|:--------------:|:---------------------------:|
