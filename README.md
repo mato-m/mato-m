@@ -22,7 +22,7 @@ I plan to make live demos for my current projects. I also plan to create more in
         │   ├── News portal
         │
         ├── Mobile apps
-            ├── Expense tracker (coming soon)
+            ├── Expense tracker
            
         AI 🧠
         │
@@ -60,13 +60,6 @@ I plan to make live demos for my current projects. I also plan to create more in
         ├── 📅 Duration: December 2022 - October 2023
         ├── 📍 Location: Podgorica, Montenegro
         ├── 💻 Position: Web developer
-        ├── 🛠 Tools:
-        │   ├── React
-        │   ├── Figma
-        │   ├── ApexCharts
-        │   ├── OpenStreetMap
-        │   ├── Trello
-        │
         ├── 📝 Summary:
             ├── Part of FishEUTrust, project funded under the Horizon Europe programme
             ├── Developed a scalable, high-performing web application
