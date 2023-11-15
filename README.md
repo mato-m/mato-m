@@ -17,7 +17,7 @@ Welcome to my Github page. Here you can learn more about me and my projects.
 |:-------------:|:---------------:|:---------------:|:-------------:|:-------------:|
 | Movie info site    | React<br/> Express.js<br/> Postgres           | /         | Coming soon           | [movie-frontend](https://github.com/mato-m/movie-frontend)<br/>[movie-backend](https://github.com/mato-m/movie-backend)         |
 | News portal    | React<br/> Express.js<br/> Postgres    | /      | Coming soon       | [news-frontend](https://github.com/mato-m/news-frontend)<br/>[news-backend](https://github.com/mato-m/news-backend)         |
-| Expense tracker        | React Native         | /           |        [Play Store](https://play.google.com/store/apps/details?id=com.mato.xo.troskovi)       | /         |
+| Expense tracker        | React Native         | /           |        [Play Store](https://play.google.com/store/apps/details?id=com.mato.xo.troskovi)       | [troskovi-app](https://github.com/mato-m/troskovi-app)         |
 | Crypto tracker (homepage only)        | React         | /           |        [Demo](https://main--inquisitive-dusk-12f301.netlify.app/)       | [crypto-frontend](https://github.com/mato-m/crypto-frontend)         |
 #### AI 🧠
 ##### Deep learning
