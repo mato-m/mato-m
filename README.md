@@ -12,7 +12,7 @@ Welcome to my Github page. Here you can learn more about me and my projects.
 | Java          | CSS frameworks       | SQL databases                | Keras          | npm                            |
 | C#            |     Wordpress            | MongoDB                  | PyTorch        |  Version control                           |
 ### Projects
-#### Full-stack 🌎
+#### Web & mobile apps 🌎
 | **Project name** | **Tools used**    | **Description**     | **Demo** | **Repo** |
 |:-------------:|:---------------:|:---------------:|:-------------:|:-------------:|
 | Movie info site    | React<br/> Express.js<br/> Postgres           | /         | Coming soon           | [movie-frontend](https://github.com/mato-m/movie-frontend)<br/>[movie-backend](https://github.com/mato-m/movie-backend)         |
