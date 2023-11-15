@@ -31,16 +31,17 @@ I'm constantly working on gaining and improving my skills, as well as creating n
 |:-------------:|:---------------:|:---------------:|:-------------:|:-------------:|
 | Diabetes prediction    | K-nearest neighbors           | /         | [Diabetes Dataset](https://www.kaggle.com/datasets/mathchi/diabetes-data-set)           | [knn-diabetes](https://github.com/mato-m/knn-diabetes)         |
 | Gender classification    | Stochastic gradient descent           | /         | [Gender classification dataset](https://www.kaggle.com/datasets/elakiricoder/gender-classification-dataset)           | [gender-classification](https://github.com/mato-m/gender-classification)         |
-| Wine quality prediction    | K-means<br/>Principal component analysis    | /      | [Wine dataset](https://www.kaggle.com/datasets/harrywang/wine-dataset-for-clustering)       | [kmeans-wine](https://github.com/mato-m/kmeans-wine)   |
+| Wine clustering    | Random forest    | This model uses random forest algorithm in order to predict the quality of wine based on its other parameters such as acidity and sulfur dioxide level. The model achieved 81.25% F1 score, so it can be considered as highly accurate.      | [Red Wine Quality](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)       | [rf-wine](https://github.com/mato-m/rf-wine)   |
 | Bank note authentication    | Support Vector Machine<br/>Principal component analysis    | /      | [Bank Note Authentication](https://www.kaggle.com/datasets/ritesaluja/bank-note-authentication-uci-data)       | [svm-banknote](https://github.com/mato-m/svm-banknote)   |
 ##### Regression
 | **Project name** | **Model**    | **Description**     | **Dataset** | **Repo** |
 |:-------------:|:---------------:|:---------------:|:-------------:|:-------------:|
-| Car price prediction    | Linear regression<br/> Random forest regression           | /         | [US Cars Dataset](https://www.kaggle.com/datasets/doaaalsenani/usa-cers-dataset)           | [regression-cars](https://github.com/mato-m/regression-cars)         |
+| Car price prediction    | Linear regression<br/> Random forest regression           | This project compares two regression models. Its main goal is to predict the car price based on its model, year and mileage. Linear regression achieved the 6864 root mean squared error, while random forest achieved  1426 RMSE, which is a significantly better result.        | [US Cars Dataset](https://www.kaggle.com/datasets/doaaalsenani/usa-cers-dataset)           | [regression-cars](https://github.com/mato-m/regression-cars)         |
 ##### Clustering
 | **Project name** | **Model**    | **Description**     | **Dataset** | **Repo** |
 |:-------------:|:---------------:|:---------------:|:-------------:|:-------------:|
-| Wine clustering    | Random forest    | /      | [Red Wine Quality](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)       | [rf-wine](https://github.com/mato-m/rf-wine)   |
+| Wine clustering    | K-means<br/>Principal component analysis    | This model uses K-means in order to cluster wine based on different parameters such as alcohol levels, magnesium levels and color intensity. Using both elbow method and silhouette score it was determined that the optimal number of clusters is 6. Principal component analysis was used in order to visually represent the result on a 2D chart.     | [Wine dataset](https://www.kaggle.com/datasets/harrywang/wine-dataset-for-clustering)       | [kmeans-wine](https://github.com/mato-m/kmeans-wine)   |
+
 ### Career 💼
 
 
