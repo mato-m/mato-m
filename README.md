@@ -1,10 +1,10 @@
 ### Introduction 👋
-
+#### About me
 Hello, my name is Mato.<br/>
 I am a web & mobile app developer, as well as an AI enthusiast.<br/>
 Welcome to my Github page. Here you can learn more about me and my projects.
 #### Future plans
-I plan to make live demos for my current projects. I also plan to create more interesting projects. I am currently exploring the field of computer vision.
+I plan to make live demos for my current projects.<br/>I also plan to create more interesting projects.<br/>I am currently exploring the field of computer vision.
 ### Expertise 👨‍💻
 | **Languages** | **Frontend**    | **Backend**     | **Databases** | **UI Design** | **AI**         | **Other Tools**           |
 |:-------------:|:---------------:|:---------------:|:-------------:|:-------------:|:--------------:|:---------------------------:|
@@ -30,7 +30,7 @@ I plan to make live demos for my current projects. I also plan to create more in
 ##### Classification
 | **Project name** | **Tools used**    | **Description**     | **Demo** | **Repo** |
 |:-------------:|:---------------:|:---------------:|:-------------:|:-------------:|
-| Diabetes prediction    | /           | /         | /           | /         |
+| Diabetes prediction    | /           | Python, Pandas, Scikit-learn, Seaborn         | /           | [knn-diabetes](https://github.com/mato-m/knn-diabetes)         |
 | Wine quality prediction    | /    | /      | /       | /   |
 | Bank note authentication    | /    | /      | /       | /   |
 ##### Regression
@@ -40,7 +40,7 @@ I plan to make live demos for my current projects. I also plan to create more in
 ##### Clustering
 | **Project name** | **Tools used**    | **Description**     | **Demo** | **Repo** |
 |:-------------:|:---------------:|:---------------:|:-------------:|:-------------:|
-| Wine clustering    | /    | /      | /       | /   |
+| Wine clustering    | Python, Pandas, Scikit-learn, Matplotlib, Seaborn    | /      | /       | [rf-wine](https://github.com/mato-m/rf-wine)   |
 ### Education 🎓
         Master of AI
         ├── 📄 Thesis: Computer vision in viticulture
