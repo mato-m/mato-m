@@ -21,6 +21,7 @@ I'm constantly working on gaining and improving my skills, as well as creating n
 | Rent a car website       | React         | A simple website with a modern and responsive UI design made in React to showcase cars for a rent-a-car company. By selecting a car, the user can get detailed information about it, as well as its prices.          |        [Demo](https://rentmne.netlify.app/)       | [rent-car-react](https://github.com/mato-m/rent-car-react)         |
 | Crypto tracker       | React         | A simple homepage for a website that enables users to track latest changes in cryptocurrency prices. The page has a modern and responsive UI design, as well as an example of a chart that showcases the latest cryptocurrency prices.           |        [Demo](https://crypto-track-react-app.netlify.app/)       | [crypto-frontend](https://github.com/mato-m/crypto-frontend)         |
 | Kamini Sjekloća       | Wordpress         | A simple static website for a fireplace retail and installation business. I have also worked on logo and UI design, SEO and digital marketing for this project.           |        [Website](https://kaminisjekloca.me)       | [kamini](https://github.com/mato-m/kamini)|
+| Portfolio       | React         | My personal portfolio.           |        [Website](https://portfolio-mato.netlify.app)       | [portfolio](https://github.com/mato-m/portfolio)|
 #### AI 🧠
 ##### Deep learning
 | **Project name** | **Model**    | **Description**     | **Dataset** | **Repo** |
