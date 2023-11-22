@@ -22,6 +22,7 @@ I'm constantly working on gaining and improving my skills, as well as creating n
 | Crypto tracker       | React         | A simple homepage for a website that enables users to track latest changes in cryptocurrency prices. The page has a modern and responsive UI design, as well as an example of a chart that showcases the latest cryptocurrency prices.           |        [Demo](https://crypto-track-react-app.netlify.app/)       | [crypto-frontend](https://github.com/mato-m/crypto-frontend)         |
 | Kamini Sjekloća       | Wordpress         | A simple static website for a fireplace retail and installation business. I have also worked on logo and UI design, SEO and digital marketing for this project.           |        [Website](https://kaminisjekloca.me)       | [kamini](https://github.com/mato-m/kamini)|
 | Portfolio       | React         | My personal portfolio.           |        [Website](https://portfolio-mato.netlify.app)       | [portfolio](https://github.com/mato-m/portfolio)|
+| Portfolio 98       | React         | A redesign of my personal portfolio in the style of Windows 98.           |        [Website](https://spontaneous-conkies-04fc06.netlify.app/)       | [portfolio-98](https://github.com/mato-m/portfolio-98)|
 #### AI 🧠
 ##### Deep learning
 | **Project name** | **Model**    | **Description**     | **Dataset** | **Repo** |
